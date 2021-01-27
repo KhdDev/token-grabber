@@ -1,7 +1,7 @@
 ##### :warning: Personal Purpose, we are not responsable of your acts :warning: 
 
 # HY Grabber
-An powerful discord token grabber / discord token stealer stole discord password, info, etc, same when you change password. [Need a screenshot ?](https://github.com/Stanley-GF/HS-Grabber#Some-screenshot-of-the-grabber)
+An powerful discord token grabber / discord token stealer stole discord password, info, etc, same when you change password.
 
 - [] 10 Star = [video tutorial]
 - [] 15 Star = [auto builder]
